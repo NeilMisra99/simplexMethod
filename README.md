@@ -19,6 +19,7 @@ randomized float coefficients and output a max Z value and time taken during
 execution
 
 Compilation/Execution instructions for OpenMPI
+
 To Compile the program:
 
 mpic++ -g -Wall -o executable_name cpp_file_name
