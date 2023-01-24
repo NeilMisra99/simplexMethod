@@ -1,4 +1,7 @@
 # Simplex Method
+
+Files: mp_imp.cpp is OpenMP implementation. mpi_imp.cpp is MPI implementation.
+
 Implements the simplex method in C++ serially, and in parallel using OpenMPIand MPI:
 
 Compilation/Execution instructions for OpenMP:
