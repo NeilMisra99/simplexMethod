@@ -1,7 +1,7 @@
 # Simplex Method
 Implements the simplex method in C++ serially, and in parallel using OpenMPIand MPI:
 
-Compilation/Execution instructions for OpenMP:
+Compilation/Execution instructions for OpenMP:\n
 To compile the program:
 
 g++ -fopenmp -o executable_name cpp_file_name
